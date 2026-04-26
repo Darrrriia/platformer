@@ -27,7 +27,7 @@
 
 ## Демо
 
-После пуша в репозиторий с именем `platformer`: <https://klimatformat.github.io/platformer/>
+<https://darrrriia.github.io/platformer/>
 
 ## Скриншоты
 
